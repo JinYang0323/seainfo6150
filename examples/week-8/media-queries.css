@@ -1,4 +1,4 @@
-/* body {
+body {
   background: #ccc;
 }
 
@@ -17,11 +17,11 @@
     background: #00c;
   }
 }
-@media (min-width: 1200px) and (max-width: 1500px){
+@media (min-width: 1200px) and (max-width: 1500px) {
   body {
     background: #000;
   }
-} */
+}
 
 #responsive {
   display: flex;
